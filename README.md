@@ -36,7 +36,7 @@ Below is the mock-up of the refactored HTML and CSS files
 ![Refactored Mock-Up](./Screenshot.jpeg)
 
 ### Link to Live Page
-https://ortizalex.github.io/AO-Homework01-CodeRefactor/
+https://junioromizhquiri.github.io/Code_Refactor/
 
 ### Refactoring
 + HTML
